@@ -1,0 +1,1 @@
+SQL Project we made for our database course. It is a database that is supposed to be used by a social media website and is written in MS SQL Server with the use of TSQL. A full description of all functionalities is provided in description.pdf (in Polish language)
